@@ -1,0 +1,45 @@
+{
+  "name": "easy-console-image",
+  "version": "1.0.1",
+  "description": "The day has come when you have the ability to put images in the console.",
+  "main": "dist/console.image.min.js",
+  "module": "dist/console.image.esm.js",
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex61NN5/console.image.git"
+  },
+  "author": "Alex Ginns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex61NN5/console.image/issues"
+  },
+  "homepage": "https://github.com/Alex61NN5/console.image#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-typescript": "^7.10.4",
+    "@rollup/plugin-typescript": "^5.0.2",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.0",
+    "live-server": "^1.2.1",
+    "rimraf": "^3.0.2",
+    "rollup": "^2.24.0",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-terser": "^7.0.0",
+    "rollup-plugin-typescript2": "^0.27.2",
+    "typescript": "^3.9.7"
+  },
+  "babel": {
+    "presets": [
+      "@babel/present-env",
+      "@babel/preset-typescript"
+    ]
+  }
+}
