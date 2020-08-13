@@ -7,6 +7,14 @@
 Easily add images / gifs to the console. 
 ![Images.. in the console?](http://i.imgur.com/hv6pwkb.png)
 
+
+## Features
+
+- New and improved installation!
+- Made with typescript!
+- 0 Dependencies!
+- Less than 1kb!
+
 ## Installation
 
 ```bash
