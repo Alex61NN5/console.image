@@ -7,7 +7,17 @@
 Easily add images / gifs to the console. 
 ![Images.. in the console?](http://i.imgur.com/hv6pwkb.png)
 
-## How to use it
+## Installation
+
+```bash
+$ npm install easy-console-image
+```
+or
+```bash
+$ yarn add easy-console-image
+```
+
+## How To Use
 
 ### `console.image(url)`
 
