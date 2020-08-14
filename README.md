@@ -17,6 +17,8 @@ Easily add images / gifs to the console.
 - Easy to use! 💪
 
 ## Install 🔮
+
+### NPM / YARN
 ```bash
 $ npm install easy-console-image
 ```
@@ -24,6 +26,13 @@ or
 ```bash
 $ yarn add easy-console-image
 ```
+
+### Via script tag
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/easy-console-image@1.0.2/dist/console.image.min.js"></script>
+```
+
 
 ## Usage 💻
 
