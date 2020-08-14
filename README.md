@@ -8,15 +8,15 @@ Easily add images / gifs to the console.
 ![Images.. in the console?](http://i.imgur.com/hv6pwkb.png)
 
 
-## Features
+## Features 🔥
 
 - New and improved installation!
 - Made with typescript!
-- 0 Dependencies!
+- Zero Dependencies!
 - Less than 1kb!
+- Easy to use! 💪
 
-## Installation
-
+## Install 🔮
 ```bash
 $ npm install easy-console-image
 ```
@@ -25,7 +25,7 @@ or
 $ yarn add easy-console-image
 ```
 
-## How To Use
+## Usage 💻
 
 ### `console.image(url)`
 
