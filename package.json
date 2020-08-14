@@ -1,6 +1,6 @@
 {
   "name": "easy-console-image",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The day has come when you have the ability to put images in the console.",
   "main": "dist/console.image.min.js",
   "module": "dist/console.image.esm.js",
